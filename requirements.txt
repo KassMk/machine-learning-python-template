@@ -16,3 +16,4 @@ xgboost
 flask  
 joblib  
 gunicorn
+streamlit
