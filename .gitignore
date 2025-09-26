@@ -1,3 +1,40 @@
-__pycache__
-.env
-.learn
+# 🐍 Entornos virtuales de Python  
+tf_gpu_env/  
+venv/  
+env/  
+  
+# 🧪 Archivos temporales de Python  
+__pycache__/  
+*.pyc  
+*.pyo  
+*.pyd  
+*.egg-info/  
+*.egg  
+  
+# 📓 Notebooks  
+.ipynb_checkpoints/  
+  
+# 🌍 VS Code configs  
+.vscode/  
+  
+# 📦 Datasets y archivos pesados  
+*.zip  
+*.tar.gz  
+*.rar 
+*.hdf5  
+*.ckpt  
+*.pt  
+*.pth  
+datasets/  
+dogs-vs-cats/  
+*.zip  
+*.tar.gz
+*.h5 
+  
+# 🖼️ Archivos de sistema  
+.DS_Store  
+Thumbs.db
+
+# 🚫 CUDA installers y binarios pesados  
+*.run  
+*.deb
