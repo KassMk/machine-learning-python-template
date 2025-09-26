@@ -3,5 +3,7 @@
     "workbench.editorAssociations": {
         "*.md": "vscode.markdown.preview.editor"
     },
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "viraTheme.useOutlinedIcons": true,
+    "viraTheme.useTopTabIndicator": true
 }
